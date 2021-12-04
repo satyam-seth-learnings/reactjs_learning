@@ -1,0 +1,16 @@
+import React, { Component } from 'react'
+import User from './User';
+
+export default class App extends Component {
+    render() {
+        const arr=this.props.numbers;
+
+        const newArr=arr.map((num)=>{
+            return <User key={num} value={num}/>;
+        })
+        
+        return (
+            <ul>{newArr}</ul>
+        );
+    }
+}
