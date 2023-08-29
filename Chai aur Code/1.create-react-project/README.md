@@ -4,3 +4,8 @@
 ```bash
 npx create-react-app <app-name>
 ```
+
+- create react app using `vite` -
+```bash
+npm create vite@latest
+```
