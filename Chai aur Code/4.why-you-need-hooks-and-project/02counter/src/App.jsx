@@ -15,12 +15,23 @@ function App() {
     // counter = counter + 1;
     // setCounter(counter);
     
-    setCounter(counter + 1);
-    console.log("clicked", counter);
+    // setCounter(counter + 1);
+    // console.log("clicked", counter);
+
+
+    // assignment (maximum possible value of counter is 20)
+    if(counter < 20){
+      setCounter(counter + 1);
+    }
   }
 
   const removeValue = () => {
-    setCounter(counter - 1);
+    // setCounter(counter - 1);
+
+    // assignment (counter must me non negative)
+    if(counter !== 0){
+      setCounter(counter - 1);
+    }
   }
 
   return (
