@@ -16,3 +16,10 @@
 
         - [appwrite](https://www.npmjs.com/package/appwrite)
     
+    - How to setup ENV variable
+
+        - [Create React App Doc Link](https://create-react-app.dev/docs/adding-custom-environment-variables/)
+
+        - [ViteJS Doc Link](https://vitejs.dev/guide/env-and-mode.html)
+
+    - [Appwrite Website Link](https://cloud.appwrite.io/)
