@@ -57,3 +57,23 @@
    - [Appwrite Get Account Details Doc Link](https://appwrite.io/docs/references/cloud/client-web/account#get)
    
    - [Appwrite Logout Doc Link](https://appwrite.io/docs/references/cloud/client-web/account#deleteSession)
+
+3. [Appwrite database, file upload and custom queries]()
+
+    - [Appwrite Create Document Doc Link](https://appwrite.io/docs/references/cloud/client-web/databases#createDocument)
+
+    - [Appwrite Update Document Doc Link](https://appwrite.io/docs/references/cloud/client-web/databases#updateDocument)
+
+    - [Appwrite Delete Document Doc Link](https://appwrite.io/docs/references/cloud/client-web/databases#deleteDocument)
+
+    - [Appwrite Get Document Doc Link](https://appwrite.io/docs/references/cloud/client-web/databases#getDocument)
+
+    - [Appwrite List Document Doc Link](https://appwrite.io/docs/references/cloud/client-web/databases#listDocuments)
+
+    - [Appwrite Database Queries Doc Link](https://appwrite.io/docs/products/databases/queries)
+
+    - [Appwrite Storage Upload File Doc Link](https://appwrite.io/docs/references/cloud/client-web/storage#updateFile)
+
+    - [Appwrite Storage Delete File Doc Link](https://appwrite.io/docs/references/cloud/client-web/storage#deleteFile)
+
+    - [Appwrite Storage File Preview Doc Link](https://appwrite.io/docs/references/cloud/client-web/storage#getFilePreview)
