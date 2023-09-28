@@ -48,3 +48,12 @@
             
                 ![image](https://github.com/satyam-seth-learnings/reactjs_learning/assets/63374020/44ed42b6-43a6-4236-8440-419ee46a9909)
 
+2. [Build authentication service with appwrite](https://youtu.be/0Py5cGGW2lE?si=l_SdmZ_3zs6X1Dwn)
+   
+   - [Appwrite Signup Doc Link](https://appwrite.io/docs/references/cloud/client-web/account#create)
+   
+   - [Appwrite Login Doc Link](https://appwrite.io/docs/references/cloud/client-web/account#createEmailSession)
+   
+   - [Appwrite Get Account Details Doc Link](https://appwrite.io/docs/references/cloud/client-web/account#get)
+   
+   - [Appwrite Logout Doc Link](https://appwrite.io/docs/references/cloud/client-web/account#deleteSession)
