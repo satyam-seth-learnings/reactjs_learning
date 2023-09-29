@@ -77,3 +77,7 @@
     - [Appwrite Storage Delete File Doc Link](https://appwrite.io/docs/references/cloud/client-web/storage#deleteFile)
 
     - [Appwrite Storage File Preview Doc Link](https://appwrite.io/docs/references/cloud/client-web/storage#getFilePreview)
+
+4. [How to configure redux toolkit in big projects](https://youtu.be/8QGKg_W5sDQ?si=zCDeQESjiu1dTLEZ)
+
+    - [Setup Tailwind CSS with Vite Doc Link](https://tailwindcss.com/docs/guides/vite)
