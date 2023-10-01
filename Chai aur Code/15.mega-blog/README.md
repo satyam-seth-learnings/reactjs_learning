@@ -89,3 +89,7 @@
 6. [How to use React hook form in production](https://youtu.be/lfMyCuB6xfc?si=GQnU07Au_58-URn1)
 
     - [React hook form apply validation Doc Link](https://react-hook-form.com/get-started#Applyvalidation)
+
+7. [Adding form and slug values](https://youtu.be/-6LvNku2nJE?si=yBGdYIHG1iYIBBKD)
+
+    - [React hook form usecontroller Doc Link](https://react-hook-form.com/docs/usecontroller/controller)
