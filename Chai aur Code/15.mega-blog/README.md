@@ -81,3 +81,7 @@
 4. [How to configure redux toolkit in big projects](https://youtu.be/8QGKg_W5sDQ?si=zCDeQESjiu1dTLEZ)
 
     - [Setup Tailwind CSS with Vite Doc Link](https://tailwindcss.com/docs/guides/vite)
+
+5. [Production grade react components](https://youtu.be/BSaYsHVpaK0?si=qEfEN0fwVZhDb7-A)
+
+    - [forwardRef Hook Doc Link](https://react.dev/reference/react/forwardRef)
