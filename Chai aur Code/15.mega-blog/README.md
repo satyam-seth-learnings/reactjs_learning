@@ -85,3 +85,7 @@
 5. [Production grade react components](https://youtu.be/BSaYsHVpaK0?si=qEfEN0fwVZhDb7-A)
 
     - [forwardRef Hook Doc Link](https://react.dev/reference/react/forwardRef)
+
+6. [How to use React hook form in production](https://youtu.be/lfMyCuB6xfc?si=GQnU07Au_58-URn1)
+
+    - [React hook form apply validation Doc Link](https://react-hook-form.com/get-started#Applyvalidation)
