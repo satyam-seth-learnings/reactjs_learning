@@ -95,3 +95,11 @@
     - [React hook form usecontroller Doc Link](https://react-hook-form.com/docs/usecontroller/controller)
 
 8. [Building pages](https://youtu.be/rC644qOZUro?si=ZWDlJzeNY7SU-fag)
+
+9. [CORS and debugging](https://youtu.be/Od4rQCU41s4?si=weBgha2LSW_KUYfT)
+
+    - [Appwrite whitelist domain for CORS Doc Link](https://appwrite.io/docs/quick-starts/react#step-1)
+
+        - ![Alt text](image.png)
+
+        - ![Alt text](image-1.png)
