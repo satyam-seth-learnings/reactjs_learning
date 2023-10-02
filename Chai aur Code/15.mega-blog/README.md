@@ -100,6 +100,8 @@
 
     - [Appwrite whitelist domain for CORS Doc Link](https://appwrite.io/docs/quick-starts/react#step-1)
 
-        - ![Alt text](image.png)
+        - ![image](https://github.com/satyam-seth-learnings/reactjs_learning/assets/63374020/cf41225b-0148-4776-9a42-ef35f24e355a)
 
-        - ![Alt text](image-1.png)
+        - ![image](https://github.com/satyam-seth-learnings/reactjs_learning/assets/63374020/dbd323db-96ef-41a3-ab4c-c798435c19f2)
+
+
