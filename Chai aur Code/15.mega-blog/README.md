@@ -93,3 +93,5 @@
 7. [Adding form and slug values](https://youtu.be/-6LvNku2nJE?si=yBGdYIHG1iYIBBKD)
 
     - [React hook form usecontroller Doc Link](https://react-hook-form.com/docs/usecontroller/controller)
+
+8. [Building pages](https://youtu.be/rC644qOZUro?si=ZWDlJzeNY7SU-fag)
