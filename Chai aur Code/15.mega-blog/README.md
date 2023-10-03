@@ -105,3 +105,10 @@
         - ![image](https://github.com/satyam-seth-learnings/reactjs_learning/assets/63374020/dbd323db-96ef-41a3-ab4c-c798435c19f2)
 
 
+10. [How to deploy react app to production](https://youtu.be/dg2Gw1HSlpQ?si=V_aTHLznDfV3xOQZ)
+
+    - [Github Repository Link](https://github.com/satyam-seth-learnings/appwriteblog_reactjs_deploy)
+
+    - [Deployed on Vercel Website Link](https://appwriteblog-reactjs-deploy.vercel.app)
+
+    - Note don't forget to whitelist CORS
