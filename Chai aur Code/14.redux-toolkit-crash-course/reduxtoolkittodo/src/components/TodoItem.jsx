@@ -5,7 +5,6 @@ import { removeTodo } from '../features/todo/todoSlice';
 
 
 function TodoItem(props) {
-  console.log(props)
   const dispatch = useDispatch();
   const [todoMsg, setTodoMsg] = useState(props.todo.text);
   const [isTodoEditable, setIsTodoEditable] = useState(false);
