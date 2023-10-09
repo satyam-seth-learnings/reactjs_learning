@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 
 [axios Official Doc](https://axios-http.com/docs/intro)
+
+[Create React App Proxy setup Doc](https://create-react-app.dev/docs/proxying-api-requests-in-development/)
+
+[Vite Proxy Server setup Doc](https://vitejs.dev/config/server-options.html#server-proxy)

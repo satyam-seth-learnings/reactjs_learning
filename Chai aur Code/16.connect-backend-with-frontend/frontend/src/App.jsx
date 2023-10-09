@@ -6,13 +6,13 @@ function App() {
   const [jokes, setJokes] = useState([]);
 
   useEffect(()=> {
-    axios.get('http://localhost:3000/jokes')
+    axios.get('/api/jokes')
     .then((response) => {
       setJokes(response.data);
     }).catch((error)=>{
       console.log(error);
     });
-  });
+  }, []);
 
   return (
     <>
@@ -20,13 +20,13 @@ function App() {
      <p>JOKES: {jokes.length}</p>
 
      {
-      jokes.map((joke, index) => {
-        <div key={joke.id}>
-          <h3>{joke.title}</h3>
-          <h3>{joke.content}</h3>
-        </div>
-      })
-     }
+      jokes.map((joke, index) => (
+          <div key={joke.id}>
+            <h3>{joke.title}</h3>
+            <h3>{joke.content}</h3>
+          </div>
+        )
+      )}
     </>
   );
 }
