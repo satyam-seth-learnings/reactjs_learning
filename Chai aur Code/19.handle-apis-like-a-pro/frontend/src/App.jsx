@@ -3,6 +3,8 @@ import './App.css';
 import axios from 'axios';
 
 function App() {
+  // const [products, error, loading] = customReactQuery('api/products');
+
   const [products, setProducts] = useState([]);
   const [error, setError] = useState(false);
   const [loading, setLoading] = useState(false);
@@ -41,3 +43,27 @@ function App() {
 }
 
 export default App;
+
+const customReactQuery = (urlPath) => {
+  const [products, setProducts] = useState([]);
+  const [error, setError] = useState(false);
+  const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    (async () => {
+      try {
+        setLoading(true);
+        setError(false);
+        const response = await axios.get(urlPath);
+        console.log(response.data);
+        setProducts(response.data);
+        setLoading(false);
+      } catch (error) {
+        setError(true);
+        setLoading(false);
+      }
+    })();
+  }, []);
+
+  return [products, error, loading];
+};
