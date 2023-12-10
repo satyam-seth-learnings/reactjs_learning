@@ -1,1 +1,1 @@
-[YouTube Playlist Link](https://youtube.com/playlist?list=PLbGui_ZYuhignjLLXTJWkRJKN-SgAqClL)
+[YouTube Channel Link](https://www.youtube.com/@geekyshows)
