@@ -1,4 +1,5 @@
 import { LearnComponent } from "./components/LearnComponent";
+import { LearnEvent } from "./components/LearnEvent";
 import { LearnJSX } from "./components/LearnJsx";
 import { LearnProps } from "./components/LearnProps";
 
@@ -10,7 +11,8 @@ function App() {
     <>
       {/* <LearnComponent /> */}
       {/* <LearnJSX /> */}
-      <LearnProps name="Satyam Seth" roll={roll} />
+      {/* <LearnProps name="Satyam Seth" roll={roll} /> */}
+      <LearnEvent />
     </>
   )
 }
