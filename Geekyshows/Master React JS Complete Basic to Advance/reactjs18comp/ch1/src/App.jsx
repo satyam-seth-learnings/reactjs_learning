@@ -1,12 +1,16 @@
 import { LearnComponent } from "./components/LearnComponent";
 import { LearnJSX } from "./components/LearnJsx";
+import { LearnProps } from "./components/LearnProps";
 
-function App() {
+function App() {  
+  let roll = 101
+
 
   return (
     <>
       {/* <LearnComponent /> */}
-      <LearnJSX />
+      {/* <LearnJSX /> */}
+      <LearnProps name="Satyam Seth" roll={roll} />
     </>
   )
 }
