@@ -18,6 +18,7 @@ import { LearnCSSModule1 } from "./components/LearnCSSModule1";
 import { LearnCSSModule2 } from "./components/LearnCSSModule2";
 import { LearnUseOfImage } from "./components/LearnUseOfImage";
 import { LearnForm } from "./components/LearnForm";
+import { LearnUsingENV } from "./components/LearnUsingENV";
 
 function App() {  
   let roll = 101
@@ -46,7 +47,8 @@ function App() {
       {/* <LearnCSSModule1 />
       <LearnCSSModule2 /> */}
       {/* <LearnUseOfImage /> */}
-      <LearnForm />
+      {/* <LearnForm /> */}
+      <LearnUsingENV />
     </>
   )
 }
