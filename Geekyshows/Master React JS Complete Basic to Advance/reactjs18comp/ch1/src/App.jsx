@@ -8,6 +8,7 @@ import { CounterApp } from "./components/CounterApp";
 import { LearnUseEffect } from "./components/LearnUseEffect";
 import { LearnUseMemo } from "./components/LearnUseMemo";
 import { LearnUseCallback } from "./components/LearnUseCallback";
+import { LearnCustomHook } from "./components/LearnCustomHook";
 
 function App() {  
   let roll = 101
@@ -26,7 +27,9 @@ function App() {
       {/* <CounterApp /> */}
       {/* <LearnUseEffect /> */}
       {/* <LearnUseMemo /> */}
-      <LearnUseCallback />
+      {/* <LearnUseCallback /> */}
+      <LearnCustomHook />
+      
     </>
   )
 }
