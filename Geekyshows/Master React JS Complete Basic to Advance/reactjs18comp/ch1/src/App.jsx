@@ -10,6 +10,7 @@ import { LearnUseMemo } from "./components/LearnUseMemo";
 import { LearnUseCallback } from "./components/LearnUseCallback";
 import { LearnCustomHook } from "./components/LearnCustomHook";
 import { LearnConditionalRender } from "./components/LearnConditionalRender";
+import { LearnMap } from "./components/LearnMap";
 
 function App() {  
   let roll = 101
@@ -30,7 +31,8 @@ function App() {
       {/* <LearnUseMemo /> */}
       {/* <LearnUseCallback /> */}
       {/* <LearnCustomHook /> */}
-      <LearnConditionalRender />
+      {/* <LearnConditionalRender /> */}
+      <LearnMap />
     </>
   )
 }
