@@ -16,6 +16,7 @@ import { LearnExternalCSS1 } from "./components/LearnExternalCSS1";
 import { LearnExternalCSS2 } from "./components/LearnExternalCSS2";
 import { LearnCSSModule1 } from "./components/LearnCSSModule1";
 import { LearnCSSModule2 } from "./components/LearnCSSModule2";
+import { LearnUseOfImage } from "./components/LearnUseOfImage";
 
 function App() {  
   let roll = 101
@@ -41,8 +42,9 @@ function App() {
       {/* <LearnInlineCSS /> */}
       {/* <LearnExternalCSS1 />
       <LearnExternalCSS2 /> */}
-      <LearnCSSModule1 />
-      <LearnCSSModule2 />
+      {/* <LearnCSSModule1 />
+      <LearnCSSModule2 /> */}
+      <LearnUseOfImage />
     </>
   )
 }
