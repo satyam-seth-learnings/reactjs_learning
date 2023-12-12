@@ -3,3 +3,5 @@
 - [React JS Doc Link](https://react.dev/)
 
 - [Vite JS Doc Link](https://vitejs.dev/)
+
+- [Tailwind CSS Doc Link](https://tailwindcss.com/docs/guides/vite)
