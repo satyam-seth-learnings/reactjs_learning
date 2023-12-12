@@ -14,6 +14,8 @@ import { LearnMap } from "./components/LearnMap";
 import { LearnInlineCSS } from "./components/LearnInlineCSS";
 import { LearnExternalCSS1 } from "./components/LearnExternalCSS1";
 import { LearnExternalCSS2 } from "./components/LearnExternalCSS2";
+import { LearnCSSModule1 } from "./components/LearnCSSModule1";
+import { LearnCSSModule2 } from "./components/LearnCSSModule2";
 
 function App() {  
   let roll = 101
@@ -37,8 +39,10 @@ function App() {
       {/* <LearnConditionalRender /> */}
       {/* <LearnMap /> */}
       {/* <LearnInlineCSS /> */}
-      <LearnExternalCSS1 />
-      <LearnExternalCSS2 />
+      {/* <LearnExternalCSS1 />
+      <LearnExternalCSS2 /> */}
+      <LearnCSSModule1 />
+      <LearnCSSModule2 />
     </>
   )
 }
