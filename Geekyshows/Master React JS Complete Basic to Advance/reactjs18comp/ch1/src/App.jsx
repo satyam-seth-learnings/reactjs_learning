@@ -4,6 +4,7 @@ import { LearnJSX } from "./components/LearnJsx";
 import { LearnProps } from "./components/LearnProps";
 import {LearnLiftingStateUp} from "./components/LearnLiftingStateUp";
 import { LearnState } from "./components/LearnState";
+import { CounterApp } from "./components/CounterApp";
 
 function App() {  
   let roll = 101
@@ -18,7 +19,8 @@ function App() {
       {/* <LearnProps name="Satyam Seth" roll={roll} /> */}
       {/* <LearnEvent /> */}
       {/* <LearnLiftingStateUp myClick={getData} /> */}
-      <LearnState />
+      {/* <LearnState /> */}
+      <CounterApp />
     </>
   )
 }
