@@ -12,6 +12,8 @@ import { LearnCustomHook } from "./components/LearnCustomHook";
 import { LearnConditionalRender } from "./components/LearnConditionalRender";
 import { LearnMap } from "./components/LearnMap";
 import { LearnInlineCSS } from "./components/LearnInlineCSS";
+import { LearnExternalCSS1 } from "./components/LearnExternalCSS1";
+import { LearnExternalCSS2 } from "./components/LearnExternalCSS2";
 
 function App() {  
   let roll = 101
@@ -34,7 +36,9 @@ function App() {
       {/* <LearnCustomHook /> */}
       {/* <LearnConditionalRender /> */}
       {/* <LearnMap /> */}
-      <LearnInlineCSS />
+      {/* <LearnInlineCSS /> */}
+      <LearnExternalCSS1 />
+      <LearnExternalCSS2 />
     </>
   )
 }
