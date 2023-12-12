@@ -11,6 +11,7 @@ import { LearnUseCallback } from "./components/LearnUseCallback";
 import { LearnCustomHook } from "./components/LearnCustomHook";
 import { LearnConditionalRender } from "./components/LearnConditionalRender";
 import { LearnMap } from "./components/LearnMap";
+import { LearnInlineCSS } from "./components/LearnInlineCSS";
 
 function App() {  
   let roll = 101
@@ -32,7 +33,8 @@ function App() {
       {/* <LearnUseCallback /> */}
       {/* <LearnCustomHook /> */}
       {/* <LearnConditionalRender /> */}
-      <LearnMap />
+      {/* <LearnMap /> */}
+      <LearnInlineCSS />
     </>
   )
 }
