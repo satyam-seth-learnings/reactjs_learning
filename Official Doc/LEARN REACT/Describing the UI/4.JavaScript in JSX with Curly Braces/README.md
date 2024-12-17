@@ -1,1 +1,0 @@
-[Doc Link](https://react.dev/learn/javascript-in-jsx-with-curly-braces)
