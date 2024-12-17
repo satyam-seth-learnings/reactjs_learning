@@ -1,0 +1,1 @@
+[Doc Link](https://react.dev/learn/keeping-components-pure)
